@@ -1,0 +1,15 @@
+.feedback-form{
+	padding: 10px;
+	position: fixed;
+	bottom: 0px;
+	right: 0px;
+	width: 230px;
+	background-color: rgb(14, 20, 23);
+	opacity: 0.7;
+}
+
+#feedback{
+	text-decoration: none;
+	color: white;
+	background-color: rgb(14, 20, 23);
+}
